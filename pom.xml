@@ -25,7 +25,7 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
-      <url>http://master-node.eastus.cloudapp.azure.com:8081/artifactory</url>
+      <url>http://master-node.eastus.cloudapp.azure.com:8081/mvn/</url>
     </site>
   </distributionManagement>
 
